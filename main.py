@@ -1,4 +1,4 @@
-import telebot
+#import telebot
 import urllib
 from telebot import types
 import requests
